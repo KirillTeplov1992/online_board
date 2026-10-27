@@ -1,7 +1,7 @@
 (function() {
   // ========== КОНФИГУРАЦИЯ ==========
   const GRID_SIZE = 20;
-  const RULER_LENGTH = 620;
+  const RULER_LENGTH = 1800;
   const RULER_THICKNESS = 90;
   const PENCIL_WIDTH = 4.5;
   const ERASER_RADIUS = 18;
